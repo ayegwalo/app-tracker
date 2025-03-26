@@ -15,7 +15,7 @@ A simple application to track user activities and workflows.
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/app-tracker.git
+git clone https://github.com/ayegwalo/app-tracker.git
 cd app-tracker
 
 **Install dependencies:**
