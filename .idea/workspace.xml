@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2e9748e1-5526-458f-83bf-c5ff6cf644a0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/upstash.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/upstash.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/auth.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/auth.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/subscription.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/subscription.controller.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +90,7 @@
       <workItem from="1742901729019" duration="54000" />
       <workItem from="1742901797079" duration="4040000" />
       <workItem from="1743000576875" duration="31150000" />
-      <workItem from="1743116858360" duration="445000" />
+      <workItem from="1743116858360" duration="767000" />
     </task>
     <servers />
   </component>
