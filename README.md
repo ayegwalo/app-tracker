@@ -8,6 +8,7 @@ A simple application to track user activities and workflows.
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
+- Project Tools Summary
 
 
 ## Installation
@@ -92,4 +93,49 @@ Use a GET request to retrieve all subscriptions for a specific user.
 Endpoint: http://localhost:5000/api/v1/subscriptions/user/:ID
 Authorization: Bearer token (replace with a valid JWT token)
 Replace :ID with the actual user ID.
+
+
+
+// ============================
+// Project Tools Summary
+// ============================
+
+// 1. **Backend Framework**
+//    - **Node.js**: A JavaScript runtime to build the server-side application.
+
+//    - **Express.js**: A framework built on Node.js to handle routing and middleware.
+
+// 2. **Database**
+//    - **MongoDB**: A NoSQL database used for storing user data, subscriptions, and workflows.
+
+//    - **Mongoose**: An ODM (Object Data Modeling) library for MongoDB, used for defining schemas and interacting with the database.
+
+// 3. **Authentication**
+//    - **JWT (JSON Web Tokens)**: Used to authenticate users and protect routes via token-based authentication.
+const jwt = 'JWT (JSON Web Tokens)';
+
+// 4. **Email**
+//    - **Nodemailer**: A module for sending emails from your Node.js application, used for notifications like welcome emails.
+
+// 5. **External Services**
+//    - **Arcjet**: Integrates with Bot protection, rate limiting, email validation & more in just a few lines of code. Customizable protection for forms, login pages, API routes.
+
+//    - **Upstash (Redis)**: Serverless Redis used for caching and optimizing application performance.
+
+// 6. **Configuration**
+//    - **dotenv**: Used to manage environment variables (e.g., API keys, credentials) securely.
+
+// 7. **Middleware**
+//    - **Express.js Middleware**: Used to handle authentication, error handling, and interactions with external services.
+
+// 8. **Async Programming**
+//    - **async/await**: A JavaScript feature used to handle asynchronous tasks in a more readable manner.
+const asyncAwait = 'async/await';
+
+// 9. **Version Control**
+//    - **Git**: A version control system used to track changes, manage branches, and collaborate on the project.
+
+// ============================
+// End of Project Tools Summary
+// ============================
 
